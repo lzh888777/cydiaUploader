@@ -1,0 +1,8 @@
+Origin: 新缘源
+Label: 新缘源
+Suite: stable
+Version: 1.0
+Codename: xinFeng
+Architectures: darwin-arm iphoneos-arm
+Components: main
+Description: apps & tweaks
