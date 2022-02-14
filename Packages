@@ -1,35 +1,3 @@
-Package: com.xinfeng.dphelper1.3.1
-Version: 1.3.1
-Architecture: iphoneos-arm
-Maintainer: lzh
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: debs/mydeb_1.3.1.deb
-Size: 445752
-MD5sum: 32440d2a51da60f779ab4beb0557db3e
-SHA1: 4010cfed3220e4b5c3f87ba8be48ef3996630b48
-SHA256: 8ea21001632985119e19379597f2e2aa293be217090338ce35ea8b8168154670
-Section: 工具
-Priority: optional
-Description: 点评助手2
-Author: lzh
-Name: 点评助手1.3.1
-
-Package: com.xinfeng.dphelper1.3.2
-Version: 1.3.2
-Architecture: iphoneos-arm
-Maintainer: lzh
-Depends: firmware (>= 10.0), mobilesubstrate
-Filename: debs/mydeb_1.3.2.deb
-Size: 460348
-MD5sum: cf4dcec5a08d7dba24381ffb1270d904
-SHA1: 949d78afec929dd5b5d66cbd8f5e13406e083e80
-SHA256: 5f339446b8115a65d0a08a0aa31e7290654101b8b6515b1fa11855e941387212
-Section: 工具
-Priority: optional
-Description: 点评助手2
-Author: lzh
-Name: 点评助手1.3.2
-
 Package: com.xinfeng.dphelper1.3.3
 Version: 1.3.3
 Architecture: iphoneos-arm
