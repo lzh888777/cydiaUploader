@@ -62,29 +62,47 @@ Description: 点评助手2
 Author: lzh
 Name: 点评助手1.5.1
 
-Package: com.xinfeng.dping.LHDPJailBreakLogos
-Version: 0.1-1
+Package: com.xinfeng.dphelper1.5.2
+Version: 1.5.2
 Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/com.xinfeng.dping.LHDPJailBreakLogos_0.1-1_iphoneos-arm.deb
-Size: 138676
-MD5sum: ee25bec2b1634d7f08e62b0beb5ab0ac
-SHA1: f2422552ecbd458abe94f687f381776b2221eb84
-SHA256: 35f070bb59d3fcd8b4b518d3b881af8fe573cce13e02f4b4f061a5736e3a8d28
-Section: System
+Maintainer: lzh
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: debs/mydeb_1.5.2.deb
+Size: 2065480
+MD5sum: 93fb081cd6debcbef01a758b05fc45b9
+SHA1: 72052f6f48e562626aec7c7b2622e0ccf5ce1361
+SHA256: f13ae708a12ba59db23ff476b7de808080073082c4620988e610b46bdf0825ec
+Section: 工具
 Priority: optional
-Author: 刘志华
-Name: LHDPJailBreakLogos
+Description: 点评助手2
+Author: lzh
+Name: 点评助手1.5.2
+
+Package: com.xinfeng.dphelper1.5.3
+Version: 1.5.3
+Architecture: iphoneos-arm
+Maintainer: lzh
+Depends: firmware (>= 10.0), mobilesubstrate
+Filename: debs/mydeb_1.5.3.deb
+Size: 2065244
+MD5sum: a13976e1ddd9d058b57bc11296b5bb83
+SHA1: 088e3ee0ca018b492427e6a007d24583daf3276b
+SHA256: fbe453e07d19e06353b7f08026f02e262663614b16b1bd49330709584cb39cca
+Section: 工具
+Priority: optional
+Description: 点评助手2
+Author: lzh
+Name: 点评助手1.5.3
 
 Package: com.xinfeng.dping.LHDPStrongLogos
 Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: debs/com.xinfeng.dping.LHDPStrongLogos_0.1-1_iphoneos-arm.deb
-Size: 60790
-MD5sum: 341484005e9f0571a3638faead03dbb5
-SHA1: 2c3c3086f2b12afa21c5e1506234f5315d209a70
-SHA256: c5e4359d2a5e8d38e5d7cdb413b43989f1944128bbe7a20a85285d62f5f29599
+Size: 61282
+MD5sum: 763ee465bfe8fb21f59bbc5ea33939f6
+SHA1: 8de65f1268849d11d12d35ef20492215aa527a74
+SHA256: 760ebbbf8c93903550b44e469a8405ea27f00894f8b16c78dbb101c00ea3e533
 Section: System
 Priority: optional
 Author: 刘志华
@@ -121,16 +139,16 @@ Author: dps
 Name: 点评助手
 
 Package: jp.lh.pass
-Version: 0.0.2-4+debug
+Version: 0.0.2-13+debug
 Architecture: iphoneos-arm
 Maintainer: lzh
 Installed-Size: 220
 Depends: mobilesubstrate, applist, Firmware(>=12.0)
-Filename: debs/jp.lh.pass_0.0.2-2+debug_iphoneos-arm.deb
-Size: 103076
-MD5sum: a87f857c6f2b698498addd48841d8aee
-SHA1: c708aafa2f8f1fa2f49094c2def4b0a6f1fae390
-SHA256: 5aae523b45fd7834212674839080b9cbfd4aed4cbad920ba0e8e1698480e8579
+Filename: debs/jp.lh.pass_0.0.2-13+debug_iphoneos-arm.deb
+Size: 196812
+MD5sum: 55830195d5ca22a859c2e6303243b4f9
+SHA1: b09181b82b2a978698e52793f1ee23add6f1e8e0
+SHA256: 76a8ab2b32ca5a544ec48b9dce76941a1a82c24576c832bffd86b66b07e5b18c
 Section: 系统
 Description: kernel level jailbreak detection bypass.
 Author: lzh
